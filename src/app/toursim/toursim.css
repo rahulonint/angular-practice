@@ -1,0 +1,22 @@
+.form-card {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 1.5rem;
+}
+
+.tourism-form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 1.5rem;
+}
+
+.full-width {
+  width: 100%;
+  margin-bottom: 0.5rem;
+}
+
+.form-actions {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 1rem;
+}
